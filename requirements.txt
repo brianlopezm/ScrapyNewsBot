@@ -1,0 +1,5 @@
+################### Requerimientos ScrapyBot ###########################
+beautifulsoup4 
+pymongo
+requests
+python-telegram-bot
