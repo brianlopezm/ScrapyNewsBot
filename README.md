@@ -18,6 +18,7 @@ El primer paso será instalar Python y algunas herramientas más:
 * El gestor de paquetes pip para Python
 * El módulo venv (opcional)
 Para la instalación de Python es necesario seguir el siguiente link https://www.python.org/downloads/ e instalar segun sistema operativo.
+
 **OPCIONAL**:
 ```
 # En la carpeta de nuestro proyecto 
