@@ -57,5 +57,7 @@ Si queremos usar el entorno virtual la direccion de Python estará el CarpetaPro
 2. Ponemos **/start** ó Iniciar(esta opción esta la primera vez que hay contacto con el bot en la version mobile) 
 3. El bot da la bienvenida y da una breve explicación de uso del bot.
 4. En caso de necesitar más información escribir el comando **/help**
-5. Para usarlo es necesario escribir: sitio seccion. Sitios: Clarin Nacion Pagina - Secciones: Politica Economia Deportes Mundo
-6. Podemos agregar una cantidad de noticias que queremos que van de 1 a 10. Si se inserta cualquier otra cantidad, el bot por default entrega solo una. Por ejemplo: Pagina Deportes 3 -> Entregara las ultimas 3 noticias de Deportes de Pagina12
+5. Para usarlo es necesario escribir: **sitio seccion**. 
+   Sitios: Clarin Nacion Pagina - Secciones: Politica Economia Deportes Mundo
+6. Podemos agregar una cantidad de noticias que queremos que van de 1 a 10. Si se inserta cualquier otra cantidad, el bot por default entrega solo una. 
+   Por ejemplo: Pagina Deportes 3 -> Entregara las ultimas 3 noticias de Deportes de Pagina12
