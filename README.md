@@ -64,3 +64,5 @@ Si queremos usar el entorno virtual la direccion de Python estará el CarpetaPro
    
 ### Capturas Bot
 ![](https://github.com/brianlopezm/ScrapyNewsBot/blob/main/CapturaBot1.jpeg)
+![](https://github.com/brianlopezm/ScrapyNewsBot/blob/main/CapturaBot2.jpeg)
+![](https://github.com/brianlopezm/ScrapyNewsBot/blob/main/CapturaBot2.jpeg)
