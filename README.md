@@ -61,3 +61,6 @@ Si queremos usar el entorno virtual la direccion de Python estará el CarpetaPro
    Sitios: Clarin Nacion Pagina - Secciones: Politica Economia Deportes Mundo
 6. Podemos agregar una cantidad de noticias que queremos que van de 1 a 10. Si se inserta cualquier otra cantidad, el bot por default entrega solo una. 
    Por ejemplo: Pagina Deportes 3 -> Entregara las ultimas 3 noticias de Deportes de Pagina12
+   
+### Capturas Bot
+![](https://github.com/brianlopezm/ScrapyNewsBot/blob/main/CapturaBot1.jpeg)
