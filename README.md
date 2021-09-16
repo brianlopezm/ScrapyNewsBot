@@ -1,10 +1,10 @@
 # ScrapyNewsBot
 ## Table of Contents
-1. [General Info](#general-info)
+1. [Info General](#info-general)
 2. [Instalacion](#instalacion)
 3. [Uso del Bot](#uso-del-bot)
 
-### General Info
+### Info General 
 ***
 Trabajo realizado para la catedra [Taller de Python y Aplicaciones](http://taller-de-python-y-aplicaciones.alumnos.exa.unicen.edu.ar/) de la Facultad de Ciencias Exactas - UNCPBA
 
