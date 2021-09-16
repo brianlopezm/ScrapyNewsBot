@@ -8,6 +8,8 @@
 ***
 Trabajo realizado para la catedra [Taller de Python y Aplicaciones](http://taller-de-python-y-aplicaciones.alumnos.exa.unicen.edu.ar/) de la Facultad de Ciencias Exactas - UNCPBA
 
+Enlace al bot : https://t.me/ScrapyNews_bot
+
 ## Instalacion
 ***
 El primer paso será instalar Python y algunas herramientas más:
