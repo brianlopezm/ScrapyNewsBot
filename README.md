@@ -16,24 +16,30 @@ El primer paso será instalar Python y algunas herramientas más:
 
 * Python a partir de la versión 3.4
 * El gestor de paquetes pip para Python
-* El módulo venv
+* El módulo venv (opcional)
 Para la instalación de Python es necesario seguir el siguiente link https://www.python.org/downloads/ e instalar segun sistema operativo.
+**OPCIONAL**:
 ```
 # En la carpeta de nuestro proyecto 
 # Crear entorno virtual
 virtualenv venv
 # Activar entorno virtual
 source venv/bin/activate
+```
+**INSTALACIÓN PAQUETES REQUERIDOS**
+```
+# En la carpeta de nuestro proyecto 
 # Instalar paquetes
 pip install -r requirements.txt
 ```
-Luego ejecutamos
+**EJECUCIÓN**
 ```
 # Para el Scraping
 python scrap.py
 # Para levantar el Bot
 python scrapyBot.py
 ```
+
 Si queremos que el scrapeo sea automatico podemos utilizar el administrador regular de procesos en segundo plano CRON que ejecuta procesos o guiones a intervalos regulares.
 Cron existe para Sistemas Operativos Unix.
 ```
